@@ -1,5 +1,5 @@
 {
-  "name": "node-js-getting-started",
+  "name": "mycocoahouze",
   "version": "0.3.0",
   "description": "A sample Node.js app using Express 4",
   "engines": {
@@ -11,12 +11,12 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "ejs": "^3.1.5",
+    "",
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "got": "^11.3.0",
-    "tape": "^4.7.0"
+    "",
+    ""
   },
   "repository": {
     "type": "git",
